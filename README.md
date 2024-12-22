@@ -11,10 +11,15 @@ The Recipe Sharing Platform is an innovative web or mobile application designed 
 
 Key Features:
 1.User-Generated Content: Users can upload their recipes, complete with ingredients, step-by-step instructions, and accompanying images or videos.
+
 2.Search and Filters: Advanced search and filtering options allow users to find recipes based on cuisine, difficulty level, dietary preferences, or available ingredients.
+
 3.Community Engagement: A social component enables users to comment, rate, and share recipes, as well as follow their favorite contributors.
+
 4.Recipe Collections: Users can save recipes to personalized collections for easy access later.
+
 5.Interactive Features: Options like shopping list generation from recipes, calorie calculators, and ingredient substitution suggestions enhance usability.
+
 6.Gamification: Users earn badges or points for contributing recipes, engaging with the community, or completing challenges like cooking themed dishes.
 
 Objectives:
