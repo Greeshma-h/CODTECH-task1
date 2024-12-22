@@ -27,6 +27,10 @@ Technologies:
 
 
 ![output](https://github.com/user-attachments/assets/09062d63-fe16-4738-b41d-469c88428d53)
+![WhatsApp Image 2024-12-18 at 21 31 01_5245ed52](https://github.com/user-attachments/assets/1a36000f-b23a-4a1b-89a1-99b3f7cf3be0)
+![WhatsApp Image 2024-12-18 at 21 32 07_c464a5fc](https://github.com/user-attachments/assets/f9e8473b-65f0-49b6-878d-c9e471432d33)
+
+
 
 
 
