@@ -24,3 +24,9 @@ Objectives:
 
 Technologies:
 *The platform will leverage modern web development tools and frameworks such as ReactJS/Angular for the frontend, Node.js/Django for the backend, and a database like MongoDB/MySQL.
+
+
+![output](https://github.com/user-attachments/assets/09062d63-fe16-4738-b41d-469c88428d53)
+
+
+
