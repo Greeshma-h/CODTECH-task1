@@ -1,8 +1,13 @@
 Name : Greeshma H
+
 Company : CODTECH IT SOLUTIONS
+
 Domain :Full stack web development 
+
 Duration: December to February 2025
+
 Mentor : Muzammil Ahmed
+
 
 Overview of the project:
 Project : RECIPE SHARING PLATFORM
